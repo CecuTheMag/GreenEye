@@ -97,7 +97,6 @@ logo = """
  | |  _| |_) |  _| |  _| |  \| | |  _|  \ V /|  _|  
  | |_| |  _ <| |___| |___| |\  | | |___  | | | |___ 
   \____|_| \_\_____|_____|_| \_| |_____| |_| |_____|
-                  Made By MagCecu
 """
 print(Center.XCenter(Center.YCenter(Colorate.Vertical(Colors.green_to_white, eye, 2))))
 time.sleep(4)
